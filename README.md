@@ -3,11 +3,17 @@
 A simple **console-based** Student Management System written in Java.  
 This project allows the user to manage basic student records using a menu-driven interface.
 
-##  Features
+🎯 Features
 
-- **Add Student** – Enter and store basic student details.
-- **Delete Student** – Remove a student record based on an identifier (e.g., roll number or index).
-- **View Students** – Display the list of all added students.
+Add Student – Enter and store basic student details (name, age, course, ID).
+
+View Students – Display the list of all added students.
+
+Search Student – Search for a student using their ID.
+
+Update Student – Modify an existing student's details.
+
+Delete Student – Remove a student record using their ID.
 
 ##  Technologies Used
 
