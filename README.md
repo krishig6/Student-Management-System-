@@ -3,7 +3,7 @@
 A simple **console-based** Student Management System written in Java.  
 This project allows the user to manage basic student records using a menu-driven interface.
 
-🎯 Features
+Features
 
 Add Student – Enter and store basic student details (name, age, course, ID).
 
